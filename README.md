@@ -30,7 +30,4 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManoMedEngg&show_icons=true&locale=en&layout=compact" alt="ManoMedEngg" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManoMedEngg&show_icons=true&locale=en" alt="ManoMedEngg" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManoMedEngg&" alt="ManoMedEngg" /></p>
