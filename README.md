@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManoMedEngg&label=Profile%20views&color=0e75b6&style=flat" alt="ManoMedEngg" /> </p>
 
-- 🔭 I’m currently working on **Medical Image Processing and Web Development**
+- 🔭 I’m currently working on **Medical Signal Processing and Web Development**
 - 🌱 I’m currently learning **Advanced Deep Learning and Next.js**
 - 👯 I’m looking to collaborate on **Open Source Healthcare Projects**
 - 👨‍💻 All of my projects are available at **[https://manomedengg.github.io/Profilo/](https://manomedengg.github.io/Profilo/)**
