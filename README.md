@@ -47,7 +47,7 @@
 
 ## ✍️ My Dev Quote
 <p align="center">
-  <img src="https://generated-image-url.com/your-landscape-image.png" alt="Be Like Terminal Quote" width="100%" />
+  <img src="https://github.com/ManoMedEngg/Grossyfy/blob/main/frontend/components/llllll.jpg" alt="Be Like Terminal Quote" width="1000" height="200"/>
 </p>
 
 ---
