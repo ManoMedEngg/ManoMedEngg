@@ -2,7 +2,7 @@
 
 ### A BioMedical Engineer and passionate Developer from India
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ManoMedEngg&label=Profile%20views&color=0e75b6&style=flat" alt="ManoMedEngg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ManoMedEngg&label=Profile%20views&fontColor=61DAFB&style=flat" alt="ManoMedEngg" /> </p>
 
 - 🔭 I’m currently working on **Medical Signal Processing and Web Development**
 - 🌱 I’m currently learning **Advanced Deep Learning and Next.js**
@@ -44,3 +44,12 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManoMedEngg&" alt="ManoMedEngg" /></p>
+
+## ✍️ My Dev Quote
+<p align="center">
+  <img src="https://generated-image-url.com/your-landscape-image.png" alt="Be Like Terminal Quote" width="100%" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=ff0000,ff69b4&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=ffffff&animation=twinkling" />
