@@ -1,4 +1,4 @@
-# Hi 👋, I'm Manoj
+![Manoj Header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=ff0000,ff69b4&height=200&text=Manoj&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Biomedical%20Engineer&descSize=20&descAlignY=65&animation=twinkling&section=header)
 
 ### A BioMedical Engineer and passionate Developer from India
 
