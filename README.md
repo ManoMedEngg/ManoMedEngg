@@ -42,8 +42,6 @@
   
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManoMedEngg&" alt="ManoMedEngg" /></p>
 
 ## ✍️ My Dev Quote
 <p align="center">
