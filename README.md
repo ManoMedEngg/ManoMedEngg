@@ -1,4 +1,4 @@
-![Manoj Header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=ff0000,ff69b4&height=200&text=Manoj&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Biomedical%20Engineer&descSize=20&descAlignY=65&animation=twinkling&section=header)
+![Manoj Header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=ff0000,ff69b4&height=200&text=Manoj&fontSize=50&fontColor=FF0000&fontAlignY=35&desc=Biomedical%20Engineer&descSize=20&descAlignY=65&animation=twinkling&section=header)
 
 ### A BioMedical Engineer and passionate Developer from India
 
@@ -50,4 +50,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=ff0000,ff69b4&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=ff0000,ff69b4&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=FF0000&animation=twinkling" />
