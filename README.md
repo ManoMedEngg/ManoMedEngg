@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Medical Signal Processing and Web Development**
 - 🌱 I’m currently learning **Advanced Deep Learning and Next.js**
 - 👯 I’m looking to collaborate on **Open Source Healthcare Projects**
-- 👨‍💻 All of my projects are available at **[https://manomedengg.github.io/Profilo/](https://manomedengg.github.io/Profilo/)**
+- 👨‍💻 All of my projects are available at **[https://manomedengg.github.io/manoj.in/](https://manomedengg.github.io/manoj.in/)**
 - 💬 Ask me about **Medical Devices & Equipment, Arduino, Electronic & Communication, Signal Processing and Python**
 
 ---
